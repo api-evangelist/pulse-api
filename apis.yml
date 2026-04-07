@@ -1,8 +1,8 @@
 aid: pulse-api
 name: Pulse API
 description: >-
-  The Pulse API allows you to programmatically access the data stored in your
-  Pulse account with ease. 
+  The Pulse API allows you to programmatically access the data stored in your Pulse
+  account with ease.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,8 +18,8 @@ apis:
   - aid: pulse-api:pulse-api
     name: Pulse API
     description: >-
-      The Pulse API allows you to programmatically access the data stored in
-      your Pulse account with ease. 
+      The Pulse API allows you to programmatically access the data stored in your
+      Pulse account with ease.
     humanURL: https://docs.pulsepro.ai/
     tags:
       - API
