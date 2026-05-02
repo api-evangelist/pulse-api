@@ -1,34 +1,34 @@
 # Pulse API (pulse-api)
-The Pulse API allows you to programmatically access the data stored in your Pulse account with ease. 
+The Pulse API allows you to programmatically access the data stored in your Pulse account with ease.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/pulse-api/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - API
+ - Pulse, Account, Data
 
 ## Timestamps
 
-- **Created:** 2025-02-24 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-02-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Pulse API
-The Pulse API allows you to programmatically access the data stored in your Pulse account with ease. 
+The Pulse API allows you to programmatically access the data stored in your Pulse account with ease.
 
 **Human URL:** [https://docs.pulsepro.ai/](https://docs.pulsepro.ai/)
 
 
 #### Tags:
 
- - API
+ - Pulse, Account, Data
 
 #### Properties
 
